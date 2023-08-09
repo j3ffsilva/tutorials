@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  jupyter:
+    image: jupyter/base-notebook:latest
+    volumes:
+      - ./notebooks:/home/jovyan/work
+    ports:
+      - 8888:8888
+    command: start-notebook.sh --NotebookApp.token='123456'
