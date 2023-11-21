@@ -146,7 +146,6 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
 ```
 
 **Explicação do Código:**

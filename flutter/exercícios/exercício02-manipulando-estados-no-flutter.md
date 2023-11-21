@@ -24,9 +24,12 @@ Desenvolver um aplicativo Flutter que demonstre o gerenciamento básico de estad
    - Use um `Column` no corpo para organizar os widgets, incluindo um widget `Text` que exibe o texto armazenado na variável de estado.
    - Adicione um `ElevatedButton` que, quando pressionado, aciona a alteração do texto, demonstrando a mudança de estado.
 
+
 ## Solução
 
-<!-- Clique aqui para ver a solução
+*Acesse a versão `raw` deste arquivo para ver a solução*
+
+<!-- 
 import 'package:flutter/material.dart';
 
 void main() => runApp(StateDemoApp());
@@ -75,5 +78,4 @@ class _StateDemoHomePageState extends State<StateDemoHomePage> {
     );
   }
 }
-
 -->

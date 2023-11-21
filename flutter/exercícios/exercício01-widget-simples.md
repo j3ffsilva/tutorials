@@ -22,8 +22,9 @@ Criar um aplicativo Flutter que exibe um catálogo de produtos em uma lista din�
 
 ## Solução
 
-<!-- Clique aqui para ver a solução 
+*Acesse a versão `raw` deste arquivo para ver a solução*
 
+<!--  
 ```dart
 import 'package:flutter/material.dart';
 
