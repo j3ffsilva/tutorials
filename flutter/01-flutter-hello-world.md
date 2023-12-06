@@ -40,7 +40,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 ```
 
 **Explicação do Código:**
